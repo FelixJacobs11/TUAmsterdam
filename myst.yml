@@ -3,8 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Felix Jacobs
+    - name: Jelle Koeloos
 
   date: 2025-11-05
   github: felixjacobs11.github.io/TUAmsterdam/ # Change this URL to your GitHub repository
@@ -18,7 +18,8 @@ site:
   template: book-theme
   options:
     favicon: Figures/favicon.ico
-    style: ./css/TUD_stylesheet.css
+    style: 
+    ./css/TUD_stylesheet.css
     logo: Figures/logo.png
     folders: false
   
