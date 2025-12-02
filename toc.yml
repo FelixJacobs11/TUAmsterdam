@@ -55,7 +55,7 @@ project:
           - file: Content/Labs/Soortelijk_warmte/Verdamping.ipynb        
           - file: Content/Labs/Soortelijk_warmte/Warmtecapaciteit.ipynb
 
-      # - title: Druk
-      #   children:
-      #     - file: Content/Labs/druksensorijken.ipynb
-      #     - file: Content/Labs/pV_diagram.ipynb
+        - title: Druk
+          children:
+          - file: Content/Labs/druksensorijken.ipynb
+     #     - file: Content/Labs/pV_diagram.ipynb
