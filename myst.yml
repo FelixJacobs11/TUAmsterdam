@@ -18,8 +18,7 @@ site:
   template: book-theme
   options:
     favicon: Figures/favicon.ico
-    style: 
-    ./css/TUD_stylesheet.css
+    style: ./css/TUD_stylesheet.css
     logo: Figures/logo.png
     folders: false
   
