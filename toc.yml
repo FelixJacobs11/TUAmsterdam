@@ -51,8 +51,7 @@ project:
         - title: Soortelijke warmte
           children:
           - file: Content/Labs/Soortelijk_warmte/cwater.ipynb
-          - file: Content/Labs/Soortelijk_warmte/koelbuis.ipynb 
-          - file: Content/Labs/Soortelijk_warmte/Verdamping.ipynb        
+          - file: Content/Labs/Soortelijk_warmte/koelbuis.ipynb       
           - file: Content/Labs/Soortelijk_warmte/Warmtecapaciteit.ipynb
 
         - title: Druk
@@ -61,6 +60,6 @@ project:
      #     - file: Content/Labs/pV_diagram.ipynb
         - title: Faseovergangen
           children:
-            #- file: Content/Labs/Verdamping.ipynb
+            - file: Content/Labs/Verdamping.ipynb
             #- file: Content/Labs/cappucino.ipynb
             - file: Content/Labs/waxine.ipynb
