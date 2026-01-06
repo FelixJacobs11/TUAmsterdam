@@ -5,7 +5,7 @@ project:
     - file: intro.md
 
     - title: GitHub 
-      children:
+      children: []
     - file: Content/GitHub/uitleg.md
       children:
         - file: Content/GitHub/1_intro.md
