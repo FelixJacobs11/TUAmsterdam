@@ -34,7 +34,6 @@ project:
 
 
     - title: Simulaties
-      children:
       file: Content/PySim/uitleg.md
       children:
         - file: Content/PySim/1_intro_sim.ipynb
@@ -48,7 +47,6 @@ project:
         # - file: Content/PySim/9_entropie.ipynb
 
     - title: Labs
-      children:
       file: Content/Labs/uitleg.md
       children:
         - title: Soortelijke warmte
