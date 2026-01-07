@@ -9,6 +9,8 @@ project:
   date: 2025-11-05
   github: https://felixjacobs11.github.io/TUAmsterdam/ # Change this URL to your GitHub repository
 
+  assets:
+    - Figures
 extends:
   - plugins.yml
   - toc.yml
