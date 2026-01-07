@@ -7,7 +7,7 @@ project:
     - name: Jelle Koeloos
 
   date: 2025-11-05
-  github: felixjacobs11.github.io/TUAmsterdam/ # Change this URL to your GitHub repository
+  github: https://felixjacobs11.github.io/TUAmsterdam/ # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: felixjacobs11.github.io/TUAmsterdam/ # change this URL to your repository
+      url: https://felixjacobs11.github.io/TUAmsterdam/ # change this URL to your repository
